@@ -14,7 +14,7 @@
 using std::cout;
 
 int main() {
-	const int SIZE = 11;
+	const int SIZE = 10000;
 
 	clock_t start;
 
